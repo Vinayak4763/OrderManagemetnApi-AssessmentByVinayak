@@ -57,7 +57,7 @@ Local Setup
 
 Clone the repository:
 
-git clone 
+git clone https://github.com/Vinayak4763/OrderManagemetnApi-AssessmentByVinayak.git
 cd OrderInventory.Api
 
 Configure the DefaultConnection connection string for your local SQL Server instance. Do not commit passwords or other secrets.
